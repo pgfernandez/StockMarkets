@@ -4,7 +4,7 @@ package com.sbz.fix.server.main;
  * Title:        FIXServer
  * Description:
  * Copyright:    Copyright (c) 2001
- * Company:      Reuters DSS
+ * Company:      Somebiz Networks
  * @author Pedro Garcia
  * @version 1.0
  */
@@ -140,7 +140,7 @@ public TreatMessage(int secuencia,String path, FIXServer f){
   }
 
   /**
-   * Analiza el tipo de mensaje recibido y construye la respuesta según este.
+   * Analiza el tipo de mensaje recibido y construye la respuesta segï¿½n este.
    * @param tipo Tipo de mensaje recibido indicado por el tag 35.
    * @param msg Mensaje recibido.
    * @return String Respuesta FIX construida.

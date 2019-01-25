@@ -4,7 +4,7 @@ package com.sbz.fix.server.main;
  * Title:        FIXServer
  * Description:
  * Copyright:    Copyright (c) 2001
- * Company:      Reuters DSS
+ * Company:      Somebiz Networks
  * @author Pedro Garcia
  * @version 1.0
  */

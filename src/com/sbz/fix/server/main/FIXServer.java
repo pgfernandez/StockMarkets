@@ -15,7 +15,7 @@ import com.sbz.fix.server.admin.pattern.mediator.FIXServerAdminMediator;
  * Title:        FIXServer
  * Description:
  * Copyright:    Copyright (c) 2001
- * Company:      Reuters DSS
+ * Company:      Somebiz Networks
  * @author
  * @version 1.0
  */
@@ -186,7 +186,7 @@ public class FIXServer {
   private static FIXMessage fixMessage = null;
 
   /**
-   * Mediador para las comunicaciones a la herramienta de administración
+   * Mediador para las comunicaciones a la herramienta de administraciï¿½n
    */
   private static FIXServerAdminMediator mediator = null;
 
@@ -294,7 +294,7 @@ public class FIXServer {
 
 
   /**
-    * Cierra los ficheros de log y debug abiertos en la finalización del
+    * Cierra los ficheros de log y debug abiertos en la finalizaciï¿½n del
     * servidor.
     */
   private static void ends() throws IOException
@@ -425,7 +425,7 @@ public class FIXServer {
 
          fixImage = new String(inputS);
 
-         //notificación a la herramienta de administración
+         //notificaciï¿½n a la herramienta de administraciï¿½n
        //  mediator.pushMsgReceived(fixImage);
 
          logfile.print(INFO+"Mensaje recibido desde el Adapter:");

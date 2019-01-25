@@ -4,7 +4,7 @@ package com.sbz.fix.server.timers;
  * Title:        FIXServer
  * Description:
  * Copyright:    Copyright (c) 2001
- * Company:      Reuters DSS
+ * Company:      Somebiz Networks
  * @author Pedro Garcia
  * @version 1.0
  */
@@ -21,7 +21,7 @@ public class FIXTimer {
 
 
    /**
-    * Listener que va a contener la acción del timer.
+    * Listener que va a contener la acciï¿½n del timer.
     */
     public ActionListener listener = null;
 
