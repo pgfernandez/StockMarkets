@@ -1,0 +1,7 @@
+INSERT INTO brokers (broker_id, broker_short, broker_name) VALUES (1, 'GS', 'Goldman Sachs')
+INSERT INTO brokers (broker_id, broker_short, broker_name) VALUES (2, 'INT', 'Instinet')
+INSERT INTO brokers (broker_id, broker_short, broker_name) VALUES (3, 'MEL', 'Merril Lynch')
+INSERT INTO brokers (broker_id, broker_short, broker_name) VALUES (4, 'CM', 'Caja Madrid')
+INSERT INTO brokers (broker_id, broker_short, broker_name) VALUES (5, 'DB', 'Deutsche Bank')
+INSERT INTO brokers (broker_id, broker_short, broker_name) VALUES (6, 'BBV', 'BBVA')
+INSERT INTO brokers (broker_id, broker_short, broker_name) VALUES (7, 'SCH', 'Santander Central Hispano')

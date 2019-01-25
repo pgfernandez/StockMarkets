@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path=""/>
+    <classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/build/jdom-jdk11.jar"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/build/jdom.jar"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/lib/xerces.jar"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/lib/ant.jar"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/lib/collections.jar"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/lib/crimson.jar"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/lib/jaxp.jar"/>
+    <classpathentry kind="lib" path="E:/jdom-b8/lib/xalan.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/saaj-impl.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/activation.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/commons-logging.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/fscontext.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/imq.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/imqadmin.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/imqbroker.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/imqservlet.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/imqutil.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/imqxm.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/jaxm-api.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/jhall.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/jms.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/mail.jar"/>
+    <classpathentry kind="lib" path="E:/Sun/AppServer7/imq/lib/saaj-api.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/administrator/Jars/TIBRepoToolkit.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/administrator/Jars/ConfigurationManager.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/administrator/Jars/GenericEditor.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/administrator/Jars/TIBAECfg.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/administrator/Jars/TIBRepoClient32.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/SDK/java/TIBRepoClient33.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/SDK/java/Maverick33.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/adapter/SDK/java/SdkServices33.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/repository/jars/xmlsdk.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/repository/jars/crimson.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/repository/jars/jaxp.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/repository/jars/TIBRepoClient4.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/repository/jars/TIBRepoMigration4.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/repository/jars/TIBRepoServer4.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/repository/jars/TIBRepoToolkit4.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/TIBRV/lib/tibrvjweb.jar"/>
+    <classpathentry kind="lib" path="E:/TIBCO/TIBRV/lib/tibrvj.jar"/>
+    <classpathentry kind="output" path=""/>
+</classpath>

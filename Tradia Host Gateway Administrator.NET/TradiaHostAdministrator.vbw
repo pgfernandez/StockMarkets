@@ -1,0 +1,8 @@
+formMain = 1, 1, 768, 781, , 5, 8, 894, 735, C
+formSendNew = 5, 5, 522, 447, C, 192, 63, 719, 513, C
+formCancelAmend = 0, 0, 0, 0, C, 198, 198, 706, 674, C
+MessagingConnection = 110, 110, 652, 586, C
+MSMQConnection = 132, 132, 674, 608, 
+RendezVousConnection = 154, 154, 696, 630, C
+formMessaging = 95, 39, 637, 515, , 154, 154, 696, 630, C
+formMessaging2 = 110, 110, 652, 586, Z, 88, 88, 630, 564, C

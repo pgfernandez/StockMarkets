@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+
+<!--Configuration file for the gateway and auxiliar apps-->
+
+<config>
+ 
+ <!--Global system variables-->
+ <global>
+  <path>"FIX"</path>
+ </global>  
+ 
+ <!--Configuration data for Adapter2Host-->
+ 
+ <adapter2host>
+  
+  <logfile>"/log/Adapter2Host.log"</logfile>
+  <port>12000</port>
+  <host>"localhost"</host>
+  <adapter>"consumerAdapter"</adapter>
+  <version>"1.0"</version>
+  <tibComponent>"/tibco/private/adapter/custom/components/sbzFix"</tibComponent>
+  <repository>"/repository/Proyecto Carrera/src/TIBCO/SOMEBIZ"</repository>
+   
+ </adapter2host>
+ 
+ <adapter2Fix>
+  
+  <logfile>"/log/Adapter2Fix.log"</logfile>
+  <port>12500</port>
+  <host>"localhost"</host>
+  <adapter>"publisherAdapter"</adapter>
+  <version>"1.0"</version>
+  <tibComponent>"/tibco/private/adapter/custom/components/sbzFix"</tibComponent>
+  <repository>"/repository/Proyecto Carrera/src/TIBCO/SOMEBIZ"</repository>
+  
+ 
+ </adapter2Fix>
+
+
+</config>
